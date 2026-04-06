@@ -130,6 +130,6 @@ This project demonstrates a basic yet effective implementation of an online rail
 
 ## 👩‍💻 Author
 
-**Ramya V**
+**Dharunya Mahalakshmi B**
 B.Sc Computer Science
 
